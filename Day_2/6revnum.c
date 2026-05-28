@@ -9,6 +9,6 @@ int main(){
         rev=rev*10+d;
         n=n/10;
     }
-    printf("number after reversing is %d",rev);
+    printf("number after reversed is %d",rev);
     return 0;
 }
